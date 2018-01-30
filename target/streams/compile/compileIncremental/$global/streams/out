@@ -1,0 +1,70 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/home/knoldus/IdeaProjects/assignment-scala04-1/src/main/java/DirectoryContent.java, /home/knoldus/IdeaProjects/assignment-scala04-1/src/main/scala/Application.scala, /home/knoldus/IdeaProjects/assignment-scala04-1/src/main/scala/Operation.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/knoldus/IdeaProjects/assignment-scala04-1/src/main/scala/edu/knoldus/Application.scala, /home/knoldus/IdeaProjects/assignment-scala04-1/src/main/scala/edu/knoldus/Operation/Operation.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(Application, Operation)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 2 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to /home/knoldus/IdeaProjects/assignment-scala04-1/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.0:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.0:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 48b11a01 for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/knoldus/.sbt/boot/scala-2.12.4/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/knoldus/IdeaProjects/assignment-scala04-1/target/scala-2.12/classes:/home/knoldus/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.358954781 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from Application...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Application)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(Application)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(Application,ModifiedNames(changes = UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName($isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName($asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(finalize,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(Application,[Default]))) invalidates 1 classes due to The Application has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName($isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName($asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(finalize,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(Application,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(Application)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from Operation...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(Operation)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(Operation)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(Operation,ModifiedNames(changes = UsedName(getFolderContents,[Default]), UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Operation;init;,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(Operation,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName($asInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(getFolderContent,[Default]))) invalidates 1 classes due to The Operation has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getFolderContents,[Default]), UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName($isInstanceOf,[Default]), UsedName(Operation;init;,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(Operation,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName($asInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(getFolderContent,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(Operation)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from edu.knoldus.Application...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(edu.knoldus.Application)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(edu.knoldus.Application)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(edu.knoldus.Application,ModifiedNames(changes = UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName($isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName($asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(finalize,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(Application,[Default]))) invalidates 1 classes due to The edu.knoldus.Application has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName($isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName($asInstanceOf,[Default]), UsedName(main,[Default]), UsedName(finalize,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(Application,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(edu.knoldus.Application)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from edu.knoldus.Operation.Operation...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(edu.knoldus.Operation.Operation)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(edu.knoldus.Operation.Operation)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of edu.knoldus.Application: Set(UsedName(getFolderContents,[Default]), UsedName(getClass,[Default]), UsedName(Operation,[Default]), UsedName(isInstanceOf,[Default]), UsedName(asInstanceOf,[Default]), UsedName(edu;knoldus;Operation;Operation;init;,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(edu.knoldus.Operation.Operation,ModifiedNames(changes = UsedName(getFolderContents,[Default]), UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName($isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(Operation,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName($asInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(edu;knoldus;Operation;Operation;init;,[Default]), UsedName(getFolderContent,[Default]))) invalidates 2 classes due to The edu.knoldus.Operation.Operation has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getFolderContents,[Default]), UsedName(toString,[Default]), UsedName(==,[Default]), UsedName(notify,[Default]), UsedName($isInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(!=,[Default]), UsedName(wait,[Default]), UsedName(clone,[Default]), UsedName(getClass,[Default]), UsedName(##,[Default]), UsedName(hashCode,[Default]), UsedName(Operation,[Default]), UsedName(notifyAll,[Default]), UsedName(synchronized,[Default]), UsedName($asInstanceOf,[Default]), UsedName(finalize,[Default]), UsedName(isInstanceOf,[Default]), UsedName(equals,[Default]), UsedName(ne,[Default]), UsedName(asInstanceOf,[Default]), UsedName(edu;knoldus;Operation;Operation;init;,[Default]), UsedName(getFolderContent,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(edu.knoldus.Operation.Operation)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(edu.knoldus.Application)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
